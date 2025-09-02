@@ -1,0 +1,5 @@
+print ("Summation is =",22+18)
+print ("Subtraction is =",22-18)
+print ("Multiplication is =",10*4)
+print ("Division is =",40/4)
+print ("Mod is =",40%4)
